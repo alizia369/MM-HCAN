@@ -1,10 +1,11 @@
 # Hypergraph Contrastive Sensor Fusion for Multimodal Fault Diagnosis in Induction Motors
 
+[![IEEE Sensors Journal](https://img.shields.io/badge/IEEE%20Sensors%20Journal-2026-00629B.svg)](https://arxiv.org/abs/2510.15547)
 [![arXiv](https://img.shields.io/badge/arXiv-2510.15547-b31b1b.svg)](https://arxiv.org/abs/2510.15547)
 [![PDF](https://img.shields.io/badge/Paper-PDF-blue.svg)](https://arxiv.org/pdf/2510.15547)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-Official PyTorch implementation of **MM-HCAN** (Multimodal Hypergraph Contrastive Attention Network), from the paper
+Official PyTorch implementation of **MM-HCAN** (Multimodal Hypergraph Contrastive Attention Network), from the IEEE Sensors Journal paper
 [*Hypergraph Contrastive Sensor Fusion for Multimodal Fault Diagnosis in Induction Motors*](https://arxiv.org/abs/2510.15547).
 
 > ### ✨ Authors
@@ -83,11 +84,12 @@ python eval.py
 If you find this code useful, please cite:
 
 ```bibtex
-@article{ali2025mmhcan,
+@article{ali2026mmhcan,
   title   = {Hypergraph Contrastive Sensor Fusion for Multimodal Fault Diagnosis in Induction Motors},
   author  = {Ali, Usman and Zia, Ali and Ali, Waqas and Ramzan, Umer and Rehman, Abdul and Chaudhry, Muhammad Tayyab and Xiang, Wei},
-  journal = {arXiv preprint arXiv:2510.15547},
-  year    = {2025}
+  journal = {IEEE Sensors Journal},
+  year    = {2026},
+  note    = {arXiv:2510.15547}
 }
 ```
 
